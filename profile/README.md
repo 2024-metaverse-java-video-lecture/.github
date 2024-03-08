@@ -25,7 +25,7 @@
 ## 😁 동영상 강의 참조 자료
 
 ### ❤️ handsout(pdf) ❤️
-[수업용 pdf 바로가기]()
+[수업용 pdf 바로가기](https://github.com/2024-metaverse-java-video-lecture/handsout)
 
 
 ### ❤️ source code ❤️
